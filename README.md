@@ -33,7 +33,7 @@ In this game, the player controls a character running endlessly through a proced
 
 ## 🖼️ Screenshots & Demo
 
-> 🎥 [Google Drive Demo & Assets](https://drive.google.com/drive/folders/1t6KsepCnlEAyfVytyuQHAqdjpgmqOpJ4?usp=sharing)
+> 🎥 [Google Drive & Assets](https://drive.google.com/file/d/1ozuN6hRoF2LX192FfMb0IYYnndDb6fFi/view?usp=drive_link)
 
 *(Include gameplay gifs or screenshots here if available)*
 
